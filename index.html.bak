@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoftBreeze</title>
+    <meta name="description" content="For Those Who Appreciate More Than Beauty.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
+    <link rel="canonical" href="https://example.com/">
+</head>
+<body>
+    <header>
+        <h1>SoftBreeze</h1>
+        <p>For Those Who Appreciate More Than Beauty.</p>
+    </header>
+
+    <!-- 自动插入图片展示区 -->
+    <section class="gallery-container">
+        <div class="category">
+  <h2>Bedroom</h2>
+  <div class="gallery">
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250908_095322_20.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250908_095322_19.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250908_095322_18.jpg"/></a>
+    <a data-lightbox="bedroom" href="bedroom/page1.html"><img alt="" src="bedroom/20250908_095322_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="bedroom/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Dark</h2>
+  <div class="gallery">
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250908_095505_20.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250908_095505_19.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250908_095505_18.jpg"/></a>
+    <a data-lightbox="dark" href="dark/page1.html"><img alt="" src="dark/20250908_095505_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="dark/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Fitness</h2>
+  <div class="gallery">
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250908_095653_20.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250908_095653_19.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250908_095653_18.jpg"/></a>
+    <a data-lightbox="fitness" href="fitness/page1.html"><img alt="" src="fitness/20250908_095653_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="fitness/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Luxury</h2>
+  <div class="gallery">
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250908_095841_20.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250908_095841_19.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250908_095841_18.jpg"/></a>
+    <a data-lightbox="luxury" href="luxury/page1.html"><img alt="" src="luxury/20250908_095841_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="luxury/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Mirror</h2>
+  <div class="gallery">
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250908_100026_20.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250908_100026_19.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250908_100026_18.jpg"/></a>
+    <a data-lightbox="mirror" href="mirror/page1.html"><img alt="" src="mirror/20250908_100026_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="mirror/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Office</h2>
+  <div class="gallery">
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250908_100211_20.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250908_100211_19.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250908_100211_18.jpg"/></a>
+    <a data-lightbox="office" href="office/page1.html"><img alt="" src="office/20250908_100211_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="office/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Redroom</h2>
+  <div class="gallery">
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250908_100359_20.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250908_100359_19.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250908_100359_18.jpg"/></a>
+    <a data-lightbox="redroom" href="redroom/page1.html"><img alt="" src="redroom/20250908_100359_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="redroom/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Shower</h2>
+  <div class="gallery">
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250908_100550_20.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250908_100550_19.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250908_100550_18.jpg"/></a>
+    <a data-lightbox="shower" href="shower/page1.html"><img alt="" src="shower/20250908_100550_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="shower/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Soft</h2>
+  <div class="gallery">
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250908_100734_20.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250908_100734_19.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250908_100734_18.jpg"/></a>
+    <a data-lightbox="soft" href="soft/page1.html"><img alt="" src="soft/20250908_100734_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="soft/page1.html">→ View More</a></div>
+</div>
+<div class="category">
+  <h2>Uniform</h2>
+  <div class="gallery">
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250908_100918_20.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250908_100918_19.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250908_100918_18.jpg"/></a>
+    <a data-lightbox="uniform" href="uniform/page1.html"><img alt="" src="uniform/20250908_100918_17.jpg"/></a>
+  </div>
+  <div class="view-more"><a href="uniform/page1.html">→ View More</a></div>
+</div>
+
+    </section>
+
+    <!-- 广告代码区域 -->
+    <div class="ad-zone">
+        []
+    </div>
+
+    <footer>
+        <nav>
+            <a href="about.html">About</a> |
+            <a href="privacy.html">Privacy</a> |
+            <a href="contact.html">Contact</a>
+        </nav>
+        <p>© 2025 SoftBreeze. All rights reserved.</p>
+    </footer>
+</body>
+</html>
